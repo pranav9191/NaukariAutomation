@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-04T16:53:34 IST" name="Default suite" finished-at="2022-07-04T16:54:52 IST" duration-ms="78148">
+    <groups>
+    </groups>
+    <test started-at="2022-07-04T16:53:34 IST" name="Default test" finished-at="2022-07-04T16:54:52 IST" duration-ms="78148">
+      <class name="AUTOMATIONPKG.NaukariUpdate">
+        <test-method is-config="true" signature="launchbrwser1()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7fa98a66]" started-at="2022-07-04T16:53:34 IST" name="launchbrwser1" finished-at="2022-07-04T16:54:00 IST" duration-ms="26577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrwser1 -->
+        <test-method is-config="true" signature="launchbrwser()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7fa98a66]" started-at="2022-07-04T16:54:00 IST" name="launchbrwser" finished-at="2022-07-04T16:54:13 IST" duration-ms="12347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrwser -->
+        <test-method signature="Profileupdate()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7fa98a66]" started-at="2022-07-04T16:54:13 IST" name="Profileupdate" finished-at="2022-07-04T16:54:44 IST" duration-ms="30998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profileupdate -->
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7fa98a66]" started-at="2022-07-04T16:54:44 IST" name="closedriver" finished-at="2022-07-04T16:54:52 IST" duration-ms="7821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- AUTOMATIONPKG.NaukariUpdate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
