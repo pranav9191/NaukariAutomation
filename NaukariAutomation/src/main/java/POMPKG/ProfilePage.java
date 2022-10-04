@@ -39,9 +39,10 @@ public class ProfilePage {
 	{
 		String ResumeHandlertext = "I am an immediate joiner. An astute professional with 3.5 years of functional experience in Black Box (Manual Testing)includes Functional, Globalization, UI Testing, API & Webservice Testing using POSTMAN and Automation Testing Selenium with java.";
   		String ResumeHandlertext1 = "I am an immediate joiner. Total 3.5 years of experience in Manual Testing includes Functional, Globalization, UI Testing, API & Webservice Testing using POSTMAN and Automation Testing Selenium, Testng, Rest Assured, Maven with java.";
-		
+  		
   		Resumehandler.click();
   		String Fieldtext = Resumehandlerfield.getText();
+  		System.out.println(Resumehandlerfield.getCssValue("color"));
   		System.out.println(Fieldtext);
   		Resumehandlerfield.clear();
 		if(Fieldtext.equals(ResumeHandlertext))
@@ -57,7 +58,7 @@ public class ProfilePage {
 	
 	public void updatersume()
 	{
-		attachcv.sendKeys("E:\\Resume.pdf");
+		attachcv.sendKeys("E:\\Resume\\PranavPadwal_Resueme.pdf");
 	}
 	 
 	public void naukarilogout(WebDriver driver)

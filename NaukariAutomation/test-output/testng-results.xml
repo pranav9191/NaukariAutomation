@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-04T16:53:34 IST" name="Default suite" finished-at="2022-07-04T16:54:52 IST" duration-ms="78148">
+  <suite started-at="2022-08-08T12:16:43 IST" name="Default suite" finished-at="2022-08-08T12:18:03 IST" duration-ms="80689">
     <groups>
     </groups>
-    <test started-at="2022-07-04T16:53:34 IST" name="Default test" finished-at="2022-07-04T16:54:52 IST" duration-ms="78148">
+    <test started-at="2022-08-08T12:16:43 IST" name="Default test" finished-at="2022-08-08T12:18:03 IST" duration-ms="80689">
       <class name="AUTOMATIONPKG.NaukariUpdate">
-        <test-method is-config="true" signature="launchbrwser1()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7fa98a66]" started-at="2022-07-04T16:53:34 IST" name="launchbrwser1" finished-at="2022-07-04T16:54:00 IST" duration-ms="26577" status="PASS">
+        <test-method is-config="true" signature="launchbrwser1()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7b9a4292]" started-at="2022-08-08T12:16:43 IST" name="launchbrwser1" finished-at="2022-08-08T12:17:19 IST" duration-ms="36257" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrwser1 -->
-        <test-method is-config="true" signature="launchbrwser()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7fa98a66]" started-at="2022-07-04T16:54:00 IST" name="launchbrwser" finished-at="2022-07-04T16:54:13 IST" duration-ms="12347" status="PASS">
+        <test-method is-config="true" signature="launchbrwser()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7b9a4292]" started-at="2022-08-08T12:17:20 IST" name="launchbrwser" finished-at="2022-08-08T12:17:35 IST" duration-ms="15212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrwser -->
-        <test-method signature="Profileupdate()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7fa98a66]" started-at="2022-07-04T16:54:13 IST" name="Profileupdate" finished-at="2022-07-04T16:54:44 IST" duration-ms="30998" status="PASS">
+        <test-method signature="Profileupdate()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7b9a4292]" started-at="2022-08-08T12:17:35 IST" name="Profileupdate" finished-at="2022-08-08T12:17:59 IST" duration-ms="23645" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Profileupdate -->
-        <test-method is-config="true" signature="closedriver()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7fa98a66]" started-at="2022-07-04T16:54:44 IST" name="closedriver" finished-at="2022-07-04T16:54:52 IST" duration-ms="7821" status="PASS">
+        <test-method is-config="true" signature="closedriver()[pri:0, instance:AUTOMATIONPKG.NaukariUpdate@7b9a4292]" started-at="2022-08-08T12:17:59 IST" name="closedriver" finished-at="2022-08-08T12:18:03 IST" duration-ms="4608" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closedriver -->

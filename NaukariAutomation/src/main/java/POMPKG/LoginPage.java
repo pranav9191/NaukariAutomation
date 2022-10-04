@@ -30,7 +30,7 @@ public class LoginPage {
 	{
 		driver.get("https://www.naukri.com/nlogin/login");
 		username.sendKeys("pranavpadwal1231@gmail.com");
-		Password.sendKeys("XXXXYYYYYYZZZZZ");
+		Password.sendKeys("pranavpadwal1231@gmail.com");
 		LoginButton.click();
 	}
 }
